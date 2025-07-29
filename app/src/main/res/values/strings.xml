@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task 2</string>
+    <string name="contact_name">Ahmed Maher</string>
+    <string name="contact_image">Contact Image</string>
+    <string name="enter_notes">Enter notes…</string>
+    <string name="save_contact">Save Contact</string>
+</resources>
