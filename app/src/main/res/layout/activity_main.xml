@@ -69,6 +69,20 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/etContactNotes"
             app:layout_constraintVertical_bias="0.162" />
+        <Button
+            android:id="@+id/btnNavigate3Task"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/purple"
+            android:text="@string/navigate_to_profile_screen"
+            android:textColor="@color/white"
+            android:layout_marginTop="@dimen/margin"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/etContactNotes"
+            app:layout_constraintVertical_bias="0.162" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

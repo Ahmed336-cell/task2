@@ -5,4 +5,5 @@
     <dimen name="textsize">18sp</dimen>
     <dimen name="image_size">100dp</dimen>
     <dimen name="edittext_lines">4</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
